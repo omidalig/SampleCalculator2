@@ -23,7 +23,7 @@ namespace datinconsolapp1
             senior.Calculator();
             Console.WriteLine("natije =");
             Console.WriteLine(Calc.result);
-            Console.WriteLine("baray dariaft tarikhcheh mitavinid history va baray mohasebeh mojadad calc ra type konid");
+            Console.WriteLine("baray dariaft tarikhcheh mitavinid history va baray mohasebeh mojadad calc ra type konid");//
             string str = Console.ReadLine();
             if (str == "calc") Call();
             else if (str == "history") { Calc.History.ForEach(item => { Console.WriteLine(item); }); }

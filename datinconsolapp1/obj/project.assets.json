@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DotinSchool\\Session1\\Students\\Hadisharifzadeh\\datinconsolapp1\\datinconsolapp1.csproj",
+      "projectUniqueName": "D:\\Projects\\DotinSchool\\Session1\\Students\\SampleClaculator2\\datinconsolapp1\\datinconsolapp1.csproj",
       "projectName": "datinconsolapp1",
-      "projectPath": "D:\\Projects\\DotinSchool\\Session1\\Students\\Hadisharifzadeh\\datinconsolapp1\\datinconsolapp1.csproj",
+      "projectPath": "D:\\Projects\\DotinSchool\\Session1\\Students\\SampleClaculator2\\datinconsolapp1\\datinconsolapp1.csproj",
       "packagesPath": "C:\\Users\\OZ\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DotinSchool\\Session1\\Students\\Hadisharifzadeh\\datinconsolapp1\\obj\\",
+      "outputPath": "D:\\Projects\\DotinSchool\\Session1\\Students\\SampleClaculator2\\datinconsolapp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
